@@ -2,6 +2,6 @@ print("hiiii")
 print("welcome")
 print("no way")
 print("end")
-print(" va da venna")
+
 print("hgdhgd")
 print("fhh")
