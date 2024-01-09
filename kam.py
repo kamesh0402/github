@@ -1,7 +1,7 @@
 print("hiiii")
 print("welcome")
 print("no way")
-print("end")
+print("start")
 print("add")
 print("hgdhgd")
 print("fhh")
