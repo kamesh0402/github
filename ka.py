@@ -1,2 +1,0 @@
-print("hiiii")
-print("kam")
